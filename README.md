@@ -2,8 +2,8 @@
 
 ## Contenido
 
-- **01_downloas_era5.ipynb --> Descarga datos de ERA5
-- **02_extratct_t2m.ipynb --> Extrae temperatura y guarda en CSV
+- 01_downloas_era5.ipynb --> Descarga datos de ERA5
+- 02_extratct_t2m.ipynb --> Extrae temperatura y guarda en CSV
 
 ## Como usar:
 1. Abrir los notebooks
