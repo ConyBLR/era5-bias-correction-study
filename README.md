@@ -1,6 +1,6 @@
 # Análisis ERA5 - Trabajo Final
 
-**Curso:** [Una herramienta para la administración y análisis de grandes cantidades de datos (UNSa)]  
+**Curso:** Una herramienta para la administración y análisis de grandes cantidades de datos (UNSa)  
 **Estudiante:** Constanza B. Lopez Ruiz
 **Fecha:** Agosto 2025
 
