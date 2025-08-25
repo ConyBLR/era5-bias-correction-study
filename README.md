@@ -18,12 +18,6 @@ Análisis de datos climáticos ERA5 y su adaptación mediante modelos SARIMAX y 
 | `LICENSE` | Licencia MIT |
 | `README.md` | Este archivo |
 
-## Reproducir el análisis
-
-1. Clonar el repositorio
-2. Instalar dependencias:
-   ```bash
-   pip install -r requirements.txt
 
 ## Nota sobre el módulo de métricas
 
